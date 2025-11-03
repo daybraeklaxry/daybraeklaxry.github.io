@@ -17,9 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Hello! 👋 I'm **Xvyuan Liu (柳絮源)**, a highly motivated 3rd-year undergraduate student in the **Computer Science Top-Talent Experimental Class** (2023–2027) at **East China Normal University (ECNU)**. 🏫
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=a2gbKW8AAAAJ'>google scholar citations <strong><span id='total_cit'>10+</span></strong></a>
+My primary research interest is currently focused on the exciting convergence of **Reinforcement Learning (RL)** and **Intelligent Agents** (e.g., Agent Systems, Embodied AI). 🤖🧠 I am keen on exploring how advanced RL techniques can drive the design and development of robust, adaptive, and autonomous agents.
+
+Previously, I gained valuable research experience in the domain of **Irregular Time Series Prediction**. 📊🕰️ This work provided me with a solid foundation in data modeling, sequence analysis, and handling complex, non-uniform data structures.
+
+I am always eager to collaborate and discuss cutting-edge research in RL/Agents and beyond! Feel free to connect. 📧
 
 
 # 🔥 News
